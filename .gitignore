@@ -1,0 +1,4 @@
+segv
+segv.sSYM/
+*.entitlements
+*.plist
